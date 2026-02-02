@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![WhatsApp Image 2026-02-02 at 21 03 59](https://github.com/user-attachments/assets/f8c7726d-dc83-4b83-be5c-1c7ae404f02c)
 
 
 ### 📊 **Project Motivation & Why It Was Executed**
