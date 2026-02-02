@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 ### 📊 **Project Motivation & Why It Was Executed**
 
 This project was created to help **B2B Hardware**, a company that supplies computer hardware and peripherals across India, gain meaningful insights from its sales data. The **Sales Director was facing significant challenges** in understanding how the business was performing because the existing reporting was manual, inconsistent, and mostly verbal. Regional managers would verbally report quarterly figures without reliable data, which made it difficult to accurately track sales trends or understand why revenue was declining.
